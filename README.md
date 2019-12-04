@@ -11,5 +11,5 @@ while True: print("") c = input("L)ihat, T)ambah, U)bah, H)apus, C)ari, K)eluar:
 
 
 ### Contoh Foto Input
-
+https://github.com/KikiPanceko05/PraktikumTugas6/blob/master/tugas.PNG
 
